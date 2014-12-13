@@ -7,6 +7,6 @@ this project was done through the Coursera <https://www.coursera.org/> by John h
  
  This is the process
  ---
-(ngram.jpg)
+![alt text](ngram.jpg)
 
 kindly if the app does not run kindly download and run on your machine locally. The app is predictive-model.
